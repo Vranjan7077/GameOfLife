@@ -1,6 +1,8 @@
 # GameOfLife
 The Game of Life is not your typical computer game. It is a 'cellular automaton', and was invented by Cambridge mathematician John Conway.
 
+![GameOfLife](https://github.com/Vranjan7077/GameOfLife/blob/master/image/Gameoflife.jpg?raw=true)
+
 # The rules:
 When you first arrive at the game, it will randomly generate a board and start playing.
 - You can start and stop the board.
