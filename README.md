@@ -2,10 +2,10 @@
 The Game of Life is not your typical computer game. It is a 'cellular automaton', and was invented by Cambridge mathematician John Conway.
 
 # The rules:
-When I first arrive at the game, it will randomly generate a board and start playing.
-- I can start and stop the board.
-- I can clear the board.
-- When I press start, the game will play out.
-- Each time the board changes, I can see how many generations have gone by.
+When you first arrive at the game, it will randomly generate a board and start playing.
+- You can start and stop the board.
+- You can clear the board.
+- When you press start, the game will play out.
+- Each time the board changes, and you can see how many generations have gone by.
 
 [For more details visit :](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
