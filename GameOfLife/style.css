@@ -1,0 +1,22 @@
+body{background-color: darkgrey;}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{ 
+  margin: auto; 
+  background-color: whitesmoke;}
+
+td{
+  width: 15px;
+  height: 15px;
+}
+
+.new{ background-color: blue; }
+.old{ background-color: orangered; }
+
+.components{
+  display:block;
+  margin: 20px auto 20px 30%;
+}
