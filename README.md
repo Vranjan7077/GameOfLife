@@ -8,4 +8,4 @@ When I first arrive at the game, it will randomly generate a board and start pla
 - When I press start, the game will play out.
 - Each time the board changes, I can see how many generations have gone by.
 
-[For more details visit](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+[For more details visit :](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
